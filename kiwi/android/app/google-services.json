@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241230682944",
+    "project_id": "kivy-1c4dc",
+    "storage_bucket": "kivy-1c4dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241230682944:android:5fd07a7b38a3257014f8a5",
+        "android_client_info": {
+          "package_name": "com.example.kiwi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241230682944-tufllpkl7rh4s66kvkb541u769e7vr3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiwi",
+            "certificate_hash": "9021a6b6209fba60a524208736dca26881b9d919"
+          }
+        },
+        {
+          "client_id": "241230682944-266ciaelhth6ds9i4hppup6et4u1osnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Ld1qZS8pOsOOw-jduPdoIBFlTxKV2n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241230682944-266ciaelhth6ds9i4hppup6et4u1osnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
